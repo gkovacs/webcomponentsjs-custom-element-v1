@@ -1,0 +1,19 @@
+{
+  "name": "webcomponentsjs-custom-element-v1",
+  "version": "1.0.0",
+  "description": "This is the v1 branch of CustomElements from the webcomponentsjs project.",
+  "main": "CustomElement.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkovacs/webcomponentsjs-custom-element-v1.git"
+  },
+  "author": "Geza Kovacs (http://github.com/gkovacs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkovacs/webcomponentsjs-custom-element-v1/issues"
+  },
+  "homepage": "https://github.com/gkovacs/webcomponentsjs-custom-element-v1#readme"
+}
